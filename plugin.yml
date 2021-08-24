@@ -1,0 +1,6 @@
+name: UpdatedMob
+main: com.cokestudio.updatedmob.UpdatedMob
+version: 1.0.0
+author: CokeStudio
+softdepend:
+  - PlaceHolderAPI
